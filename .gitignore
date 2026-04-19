@@ -22,8 +22,8 @@ venv.bak/
 Thumbs.db
 
 # Data outputs
-outputs/*.png
-data/*.csv
+#outputs/*.png
+#data/*.csv
 
 # Logs
 *.log
