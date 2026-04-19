@@ -142,4 +142,4 @@ streamlit run streamlit_app.py
 
 **Varda Kunde**
 
-⭐ If you like this project, give it a star!
+⭐ If you like this project, give it a star!"# poll-results-visualizer" 
